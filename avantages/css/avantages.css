@@ -1,0 +1,27 @@
+body {
+	background-image: url("../img/drapeauBelge.jpeg");
+	text-align: center;
+}
+
+table {
+	color: black;
+	margin: auto;
+	width: 50%;
+	padding: 10px;
+	background-color: grey;
+	overflow-y:scroll;
+  	height:500px;
+  	display:block;
+}
+
+td {
+	border: solid;
+}
+
+th {
+	border: solid;
+}
+
+a {
+	text-decoration: none;
+}

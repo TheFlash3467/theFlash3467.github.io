@@ -1,0 +1,13 @@
+body {
+	text-align: center;
+	background-image: url("../img/drapeauBelge.jpeg");
+}
+
+.reseauOfficiel {position: absolute; bottom: 0; left: 0; background-color: white; border: solid; border-width: 2px; border-radius: 2px;}
+
+.menu {
+	background-color: red;
+	position: relative;
+	top: 200px;
+	font-size: 50px;
+}

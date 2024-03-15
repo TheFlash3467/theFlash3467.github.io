@@ -1,0 +1,23 @@
+body {
+	background-image: url("../img/drapeauBelge.jpeg");
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+a {text-decoration: none;}
+
+.rang {
+	font-size: 30px;
+	/*display: inline-block;*/
+	background-color: blue;
+}
+
+.listeRang {
+	display: inline-block;
+	background-color: grey;
+	/*overflow-y: scroll;*/
+	height: 500px;
+}
